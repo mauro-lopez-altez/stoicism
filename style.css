@@ -37,7 +37,10 @@ footer {
     font-weight: 100;
     font-size: .75rem;
 }
+.card    {
+    background-color: #3C6E71;
 
+}
 @media (max-width: 1200px)  {
     h1, h2 {
         font-size: 2rem;
